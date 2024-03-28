@@ -15,7 +15,17 @@ When **NOT** to create new repo, and create a branch
 1. Same code with a modification to the code
 2. Same code but different experiment
 
-How to get started.....
+#### Public or Private
+You have the option to keep your repo public or private. If the work/data has not been published better to keep it private and maybe later make it public. Private repo's are accessible to the group only.
+
+#### What to upload
+1. All the code that you develop for your project
+2. Any scripts/code/data that your developed that maybe useful to others.
+3. ....
+
+#### How to get started.....
+
+[Advantage of using a git repo for Data Science projects](https://dagshub.com/blog/how-to-use-git-for-data-science/)
 
 <!--
 
